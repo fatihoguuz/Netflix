@@ -22,6 +22,7 @@
 		3D6618D92CBFE9430024CD71 /* CGFloat + Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6618D82CBFE9430024CD71 /* CGFloat + Ext.swift */; };
 		3D6618DB2CC0285A0024CD71 /* MovieCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6618DA2CC0285A0024CD71 /* MovieCollectionViewCell.swift */; };
 		3D6618DE2CC043F00024CD71 /* MainHeroHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6618DD2CC043F00024CD71 /* MainHeroHeaderView.swift */; };
+		3DA435482CC67092009542F7 /* NetworkConstans.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA435472CC67092009542F7 /* NetworkConstans.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		3D6618D82CBFE9430024CD71 /* CGFloat + Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGFloat + Ext.swift"; sourceTree = "<group>"; };
 		3D6618DA2CC0285A0024CD71 /* MovieCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCollectionViewCell.swift; sourceTree = "<group>"; };
 		3D6618DD2CC043F00024CD71 /* MainHeroHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainHeroHeaderView.swift; sourceTree = "<group>"; };
+		3DA435472CC67092009542F7 /* NetworkConstans.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkConstans.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,6 +165,7 @@
 		3D59502A2CB4251A002D47CB /* Service */ = {
 			isa = PBXGroup;
 			children = (
+				3DA435472CC67092009542F7 /* NetworkConstans.swift */,
 			);
 			path = Service;
 			sourceTree = "<group>";
@@ -277,6 +280,7 @@
 				3D5950102CB4242E002D47CB /* SceneDelegate.swift in Sources */,
 				3D6618DE2CC043F00024CD71 /* MainHeroHeaderView.swift in Sources */,
 				3D59502E2CB4256F002D47CB /* HomeViewController.swift in Sources */,
+				3DA435482CC67092009542F7 /* NetworkConstans.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
